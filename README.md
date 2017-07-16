@@ -1,6 +1,6 @@
 # w3.css
 
-This is the w3.css codes which are used in my tutorial on w3.css framework on youtube. The codes are free to use and can be included in any of your projects.
+This is the w3.css codes which are used in my tutorial on w3.css framework on youtube. The codes are free to use and can be included in any of your projects. Video tutorial here - https://www.youtube.com/playlist?list=PLQCnNA8oI4tmt-KyKBsNMmXmSsFpR-kUa
 
 # How to use the codes
 
